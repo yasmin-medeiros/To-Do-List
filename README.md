@@ -8,7 +8,7 @@ Criação de uma lista de tarefas (To Do List), que o usuário poderá adicionar
 ## 🌐👩🏻‍💻 Tecnologias 
 <br>
 As seguintes ferramentas foram usadas na construção do projeto: 
-<br>
+
 - JAVASCRiPT
 - HTML
 - CSS

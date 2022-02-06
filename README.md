@@ -5,11 +5,14 @@ Um to do list ajudará o usuário manter suas tarefas em evidência, mantendo à
 
 Criação de uma lista de tarefas (To Do List), que o usuário poderá adicionar conteúdos - em formato de lista, marcar como concluída e apagar as tarefas adiciondas.
 
-## Criado com: 
+## 🌐👩🏻‍💻 Tecnologias 
+<br>
+As seguintes ferramentas foram usadas na construção do projeto: 
+<br>
+- JAVASCRiPT
+- HTML
+- CSS
 
-- HTML;
-- CSS;
-- JAVASCRiPT.
 
 <br>
 <br>

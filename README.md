@@ -1,9 +1,9 @@
 # To Do List
 📋📅🗒📝
 
-Um to do list ajudará o usuário manter suas tarefas em evidência, mantendo à pessoa mais produtiva, tanto em relação à vida pessoal quanto profissonal. 
+<p align="justify">Um to do list ajudará o usuário a manter suas tarefas em evidência, mantendo à pessoa mais produtiva, tanto em relação à vida pessoal quanto profissonal. </p>
 
-Criação de uma lista de tarefas (To Do List), que o usuário poderá adicionar conteúdos - em formato de lista, marcar como concluída e apagar as tarefas adiciondas.
+<p align="justify">Criação de uma lista de tarefas (To Do List), que o usuário poderá adicionar conteúdos - em formato de lista, marcar como concluída e apagar as tarefas adiciondas. </p>
 
 ## 🌐👩🏻‍💻 Tecnologias 
 

@@ -12,7 +12,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - JAVASCRiPT
 - HTML
 - CSS
-- 
+
 ## Layout da Aplicação
 
 <div align= "center">

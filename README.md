@@ -1,5 +1,5 @@
 # To Do List
-📋📅🗒📝
+📋📅
 
 <p align="justify">Um to do list ajudará o usuário a manter suas tarefas em evidência, mantendo à pessoa mais produtiva, tanto em relação à vida pessoal quanto profissonal. </p>
 
